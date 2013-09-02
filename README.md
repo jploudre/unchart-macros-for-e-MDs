@@ -1,7 +1,7 @@
 Unchart macros for e-MDs
 ========================
 
-Preamble: I've written macros for e-MDs for about 5 years (2008-2013). I'm moving to a different EMR, unfortunately. Keith Toms will be in charge over time but I'll still be a consultant. --- Jonathan Ploudre, Unchart.com
+Preamble: I've written macros for e-MDs for about 5 years (2008-2013). I'm moving to a different EMR, unfortunately. Keith Toms will be in charge over time but I'll still be a consultant. —Jonathan Ploudre, Unchart.com
 
 These macros were also know as *I'm Done* after the most useful macro that closes/saves/sends/etc depending on what it would take to be done with a spot in e-MDs. 
 
